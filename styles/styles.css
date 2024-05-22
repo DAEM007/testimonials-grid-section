@@ -86,14 +86,6 @@ body {
   background: var(--Light-gray-neutral);
 }
 
-/* desktop responsive styles */
-@media (min-width: 768px) {
-  .testimonials-section-wrapper {
-    margin-inline: auto;
-    flex-direction: row;
-  }
-}
-
 /* footer styles */
 .attribution {
   margin-block: 4rem;
@@ -103,4 +95,12 @@ body {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+/* desktop responsive styles */
+@media (min-width: 768px) {
+  .testimonials-section-wrapper {
+    margin-inline: auto;
+    flex-direction: row;
+  }
 }
