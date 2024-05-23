@@ -42,8 +42,39 @@ body {
   border-radius: 0.5rem;
 }
 
+.testimonials-main-top-left,
+.testimonials-main-top-right,
+.testimonials-main-bottom-left,
+.testimonials-main-bottom-right,
+.testimonial-side {
+  padding: 2rem;
+}
+
 .testimonial-author {
+  width: 160px;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.testimonial-author .author-avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.testimonial-author .author-avatar img {
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.testimonials-main-top-left,
+.testimonials-main-top-right,
+.testimonials-main-bottom-left,
+.testimonials-main-bottom-right,
+.testimonial-side {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 /* ==== shared styles end ==== */
 
