@@ -13,8 +13,8 @@
 
 ### Links
 
-- solution URL - [daem-testimonials-grid-solution](https://github.com/DAEM007/recipe-page)
-- Live Site URL: [daem-testimonials-grid-live](https://recipe-page-daem007.vercel.app/)
+- solution URL - [daem-testimonials-grid-solution](https://github.com/DAEM007/testimonials-grid-section)
+- Live Site URL: [daem-testimonials-grid-live](https://testimonials-grid-section-ten-peach.vercel.app/)
 
 ### Built with
 
